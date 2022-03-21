@@ -27,10 +27,17 @@ h1{
 @media screen and (max-width:600px){
    img {
     float: none;
-    margin-left: 37%;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
 
    }
    h1{
+       font-size: 1.3em;
        text-align: center;
    }
 }
+@media screen and (max-width:400px){
+   h1{
+    font-size: 1.1em;
+   }
