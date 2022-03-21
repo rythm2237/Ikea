@@ -1,13 +1,12 @@
-#content{
-    
-    
-}
+
 #bank{
     background-color: gray;
+    box-shadow:0 0 10px 1px #eee inset;
 }
 
 #Identification{
     background-color: rgb(179, 175, 175);
+    box-shadow:0 0 10px 1px #eee inset;
 }
 
 h2{
@@ -18,6 +17,8 @@ h2{
 
 #contact{
     background-color: rgb(198, 199, 199);
+    box-shadow:0 0 10px 1px #eee inset;
+    
 }
 h1{
 }
